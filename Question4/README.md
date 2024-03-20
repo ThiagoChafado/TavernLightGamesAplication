@@ -1,0 +1,1 @@
+Just removed the memory leaks with the delete 
